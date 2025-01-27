@@ -1,0 +1,7 @@
+﻿Models klasörüne new item diyerek ADO.NET Entity Data Model ekliyoruz.
+Daha sonra source yazan yerden sql adını kopyalıyoruz.
+Daha sonra new connection butonuna tıklayarak açılan ekranda server name alanına yapıştırıyoruz.
+Select or Database Name alanından veri tabanımızı seçiyoruz.
+Seçtikten sonra ok,next,next diyoruz.
+Daha sonra gelen ekranda Tables kısmından tablolarımızı varsa Views'leri seçiyoruz.
+En son finish diyerek diyagramı kaydediyoruz.
